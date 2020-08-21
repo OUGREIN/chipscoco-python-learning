@@ -12,5 +12,5 @@ while weigth >= 1:
     number = number % weigth
     weigth //=10
 print(sum_of_number)
-
+masasd
 git clone https://OUGREIN:ozy0808.@github.com/OUGREIN/chipscoco-python-learning.git
